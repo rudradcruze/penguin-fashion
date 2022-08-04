@@ -5,3 +5,7 @@ body {
 header h1 {
     font-family: 'Bebas Neue', cursive;
 }
+
+.feacture-img {
+    width: 13%;
+}
